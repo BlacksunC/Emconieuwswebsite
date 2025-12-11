@@ -1,0 +1,27 @@
+.hero{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-image: url(../css/images/banner.gif);
+    background-repeat: no-repeat;
+    background-position: center;
+    padding-top: 200px;
+    padding-bottom: 200px;
+    background-color: white;
+    color: white;
+    
+}
+
+.container {
+max-width: 960px;
+margin-left: auto;
+margin-right: auto;
+padding-left: 1rem;
+padding-right: 1rem;
+
+
+
+}
+
+
+
+
+
